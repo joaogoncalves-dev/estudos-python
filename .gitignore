@@ -1,0 +1,15 @@
+Plaintext
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do VS Code e sistema
+.vscode/
+.DS_Store

@@ -11,6 +11,7 @@ Este espaço foi criado para registrar minha evolução prática, desde a lógic
 
 ## Conteúdo do Repositório
 * `01-Variáveies-python`: Alguns tipos de variáveis em python.
+* `02-Estruturas Condicionais` aprendendo sobre o if, elif e else.
 
 ## Tecnologias & Ferramentas
 * **Linguagem:** Python 3.x
